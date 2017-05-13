@@ -1,0 +1,13 @@
+
+
+	written by:
+	Hugo Rivera,
+	Noah Caulfield
+
+	much gratitude is due to the creators and maintainers of
+
+	The Python Software Foundation
+		http://docs.python.org/2.7/
+	OpenCV, PyAudio, Numpy & Scipy, and Tkinter
+	And many Synesthesia researchers and
+	Synesthetes who posted anecdotes on the condition
